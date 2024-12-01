@@ -1,5 +1,7 @@
 # Firefox Developer Updater
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 Un script sencillo y automatizado para descargar, instalar y actualizar **Firefox Developer Edition** en sistemas Linux. Diseñado específicamente para usuarios que instalan el navegador manualmente desde el sitio oficial y desean una forma más eficiente de mantenerlo actualizado.
 
 ## Características
@@ -60,3 +62,7 @@ Este proyecto se distribuye bajo la licencia [MIT](LICENSE).
 ## Contribuciones
 
 ¡Contribuciones, reportes de errores y sugerencias son bienvenidos! Siéntete libre de abrir un _issue_ o enviar un _pull request_.
+
+## Autor
+
+Desarrollado por Alberto Mier (<info@albertomier.com>).
